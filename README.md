@@ -2,6 +2,9 @@
 ## Number one stairlift supplier across the whole of London
 ### In just a few days, our installation team will be able to take you from quote to the complete install of a straight or curved stairlift in London. The entire process will be completed entirely hassle-free too.
 
+  <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
         vid = vid.replace(/.*v=([a-z0-9_-]+).*/gi, '$1');
         textarea.value = `${value.substring(0, textarea.selectionStart)}
 [![](https://img.youtube.com/vi/${vid}/0.jpg)](http://www.youtube.com/watch?v=${vid} "Click to play on Youtube.com")
