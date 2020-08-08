@@ -1,6 +1,4 @@
-# Acorn Stairlifts
-## Number one stairlift supplier across the whole of London
-### In just a few days, our installation team will be able to take you from quote to the complete install of a straight or curved stairlift in London. The entire process will be completed entirely hassle-free too.
+
 
   <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
