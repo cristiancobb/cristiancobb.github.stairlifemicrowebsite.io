@@ -4,10 +4,9 @@
 
 
 ![](https://www.youtube.com/watch?v=3_9TpeRtlcA)
-![](http://damien.pobel.fr/images/youtube-video-github.gif)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=3_9TpeRtlcA)](https://www.youtube.com/watch?v=3_9TpeRtlcA)
 
 
 
