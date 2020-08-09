@@ -17,3 +17,34 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
+<div class="form-wrapper">
+				<h2 class="text-color-1">Get in touch to arrange your FREE, no-obligation quote</h2>
+				<div id="quote-form">
+					
+	<form id="regiration_form" method="post">
+		<input type="hidden" name="Country" id="ctry" placeholder="Country" value="">
+
+		<div class="field">
+			<input type="text" name="FirstName" id="fn" placeholder="First Name*">
+		</div>
+		<div class="field">
+			<input type="text" name="LastName" id="ln" placeholder="Last Name*">
+		</div>
+		<div class="field">
+			<input type="text" name="TelephoneMain" id="phone" placeholder="Telephone">
+		</div>
+		<div class="field">
+			<input type="text" name="Email" id="email" placeholder="Email Address">
+		</div>
+		<div class="field">
+			<input type="text" name="Address1" id="add1" placeholder="Address 1">
+		</div>
+		<div class="field">
+			 
+				<input type="text" name="PostalCode" id="zip" placeholder="Postcode">
+					</div>		
+		<input type="submit" class="btn" name="submit" value="Submit">
+	</form>
+
+					</div>
+			</div>
