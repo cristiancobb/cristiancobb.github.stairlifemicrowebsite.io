@@ -1,5 +1,5 @@
 # Acorn Stairlifts
-*We challenge the status quo by making simple and elegant products*
+*We challenge the status quo by making simple and elegant products.*
 *How long have you been looking for a stairlift?*
 
 ## Number one stairlift supplier across the whole of London
