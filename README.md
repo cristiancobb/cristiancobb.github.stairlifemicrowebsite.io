@@ -10,4 +10,4 @@
 
 
 
-![Image of Stairlift](https://external-preview.redd.it/5v_JXtIA8E3PL3asjvZdPPHS0foCl8bxG34yfEZ0OX0.gif?format=mp4&s=2308fc89819f107629c7eacfb36b0a2ad1ce4dbe)
+![Image of Stairlift](https://www.acornstairlifts.com/assets/1.png)
