@@ -1,5 +1,7 @@
 # Acorn Stairlifts
-**We challenge the status quo by making simple and elegant products**
+*We challenge the status quo by making simple and elegant products*
+*How long have you been looking for a stairlift?*
+
 ## Number one stairlift supplier across the whole of London
 ### In just a few days, our installation team will be able to take you from quote to the complete install of a straight or curved stairlift in London. The entire process will be completed entirely hassle-free too.
 
